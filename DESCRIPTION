@@ -1,7 +1,6 @@
 Package: redatamx
 Title: R Interface to 'Redatam' Library
-Version: 1.0.0
-Date: 2024-11-01
+Version: 1.0.1
 Authors@R: c(
     person(
       given = "Jaime", 
@@ -34,8 +33,12 @@ SystemRequirements: 'Redatam' runtime engine (see https://redatam.org),
         build step. Currently supported platforms are Windows, Linux
         and macOS.
 Copyright: See COPYRIGHTS for details.
-Packaged: 2024-10-27 20:32:58 UTC; jsalvador2024
+URL: https://ideasybits.github.io/redatamx4r/,
+        https://github.com/ideasybits/redatamx4r/
+BugReports: https://github.com/ideasybits/redatamx4r/issues
+Config/Needs/website: rmarkdown
+Packaged: 2024-11-21 14:06:29 UTC; jsalvador2024
 Author: Jaime Salvador [aut, cre] (<https://orcid.org/0000-0002-3564-8929>),
   CELADE [cph]
 Repository: CRAN
-Date/Publication: 2024-10-29 20:30:02 UTC
+Date/Publication: 2024-11-21 14:20:03 UTC

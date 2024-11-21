@@ -7,7 +7,7 @@
 redatam_internal_query(dic, spc)
 }
 \arguments{
-\item{dic}{Dictionary identifier}
+\item{dic}{Dictionary identifier (returned by redatam_open())}
 
 \item{spc}{Program text in SPC format}
 }
@@ -26,3 +26,4 @@ df<-redatam_internal_query(dic,"freq person.sexo")
 \author{
 Jaime Salvador
 }
+\keyword{internal}

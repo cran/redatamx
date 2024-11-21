@@ -7,7 +7,7 @@
 redatam_close(dic)
 }
 \arguments{
-\item{dic}{Dictionary ID (returned by 'redatam.open')}
+\item{dic}{Dictionary identifier (returned by redatam_open())}
 }
 \value{
 {No return value.}
@@ -18,7 +18,8 @@ Close a REDATAM database.
 \examples{
 \dontrun{
 dic<-redatam_open("path/to/rxdb")
-# run some queries using 'query' or 'run'
+# run some queries using 'redatam_query' or 'redatam_run'
+# close de dictionary
 redatam_close(dic);
 }
 }
