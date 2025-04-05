@@ -1,6 +1,6 @@
-f2f25dfdfc4ab4f07e335ba77051ff6e *DESCRIPTION
+f4e5ae6c1c75154083cb333981b43bce *DESCRIPTION
 1114af677b6ef2270ae1c314de0075f6 *NAMESPACE
-98f71d8f2ee3d0960a940ca6323f5305 *NEWS.md
+b3d16b8583f8d634fe4a1a8b3e01924c *NEWS.md
 d41d8cd98f00b204e9800998ecf8427e *R/cpp11.R
 5a62776c7cd2ff4eb262b837a15cfd9a *R/output-env.R
 67e9e51f491b175984a42109651bcd62 *R/redatam-api.R
@@ -9,9 +9,9 @@ a0921ad19b00d4988b01508b3da01f8e *R/redatam-package.R
 25c7b1bf274d5b843e28322392799674 *R/redatam-query.R
 0a9fa1c7a0f5cbe957622c37b9ccc046 *R/redatam-run.R
 df360308084152f570e06defa717b391 *R/zzz.R
-7d16d865301abd8066448fc00d90fdf6 *README.md
-fd43b7bda5cf3ea9e467392e80b792d8 *configure
-172fb61112339f5b28d64359cd7e688f *configure.win
+d2d4c6b15c45e33d79d62de0ccf2c126 *README.md
+e268f7d470ad5ea9144417ef83c31769 *configure
+52718077d77527bcc4d2a53ab17c772b *configure.win
 59b9c01c0eacb46123567902172944b5 *inst/COPYRIGHTS
 b5d0e03a09c2581573c7baa8ea9b7067 *inst/License.txt
 9a07e4dc19b0a4bab670443d771a88c1 *man/outputs.Rd
@@ -38,6 +38,6 @@ c0cf4877a96e2107b55559e21e9cf996 *src/dylib.hpp
 5f65e127b8abb9b2080f806cbb48caf2 *src/red_create.cpp
 e816a0d8d02bb963db272358c3cb3a2d *src/red_dictionary.cpp
 309de82fae000012697cb8dc780ddfd2 *src/red_execute.cpp
-36fd10c7c0b443a2044ebb66dce3fd4b *src/red_initialize.cpp
+cbf0088ac35cda932479398ca5284fb0 *src/red_initialize.cpp
 2b6201dc0d9c9759936a442254132aa9 *src/red_plugins.cpp
 7523954e1ec46302c3bcc45349bdcbd6 *src/redengine_c.h
