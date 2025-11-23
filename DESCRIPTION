@@ -1,6 +1,6 @@
 Package: redatamx
 Title: R Interface to 'Redatam' Library
-Version: 1.2.0
+Version: 1.2.1
 Authors@R: c(
     person(
       given = "Jaime", 
@@ -37,9 +37,9 @@ URL: https://ideasybits.github.io/redatamx4r/,
         https://github.com/ideasybits/redatamx4r/
 BugReports: https://github.com/ideasybits/redatamx4r/issues
 Config/Needs/website: rmarkdown
-Packaged: 2025-11-03 02:55:46 UTC; runneradmin
+Packaged: 2025-11-23 01:04:42 UTC; jsalvador2024
 Author: Jaime Salvador [aut, cre] (ORCID:
     <https://orcid.org/0000-0002-3564-8929>),
   CELADE [cph]
 Repository: CRAN
-Date/Publication: 2025-11-03 03:20:02 UTC
+Date/Publication: 2025-11-23 03:10:02 UTC
